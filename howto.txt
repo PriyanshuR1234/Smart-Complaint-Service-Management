@@ -1,0 +1,14 @@
+//for frontend
+
+cd "/Users/priyanshurajput/projects/java_training/Smart Complaint & Service Management/frontend"
+npm run dev
+
+
+//for backend
+
+cd "/Users/priyanshurajput/projects/java_training/Smart Complaint & Service Management/Smart Backend"
+./mvnw spring-boot:run
+
+
+./mvnw spring-boot:run
+
